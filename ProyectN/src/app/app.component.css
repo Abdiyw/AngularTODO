@@ -1,0 +1,25 @@
+/*CSS DE ESTILOS PARA QUE SE VEA UN POCO MAS AGRADABLE A LA VISTA */
+.contenedorPrincipal{
+  background-color:#8758FF;
+  border-bottom:5px solid black;
+}
+.contenedorTareas{
+background-color: #181818;
+margin: 50px ;
+border-radius: 15px;
+padding:15px;
+}
+.titulos{
+  color:#F2F2F2;
+  font-size: 55px;
+}
+.itemTareasCompletas{
+  background-color:#5CB8E4;
+  color:rgb(0, 0, 0);
+  border-radius:5px;
+}
+.itemTarea{
+  background-color:#5CB8E4;
+  color:rgb(0, 0, 0);
+  border-radius:5px;
+}
